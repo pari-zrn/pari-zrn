@@ -1,4 +1,4 @@
-## IM PARI
+## CE STUDENT👩🏻‍💻
 
 <!--
 **pari-zrn/pari-zrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
